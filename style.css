@@ -9,3 +9,8 @@ a {
 	font-family: inherit;
 	font-weight: inherit;
 }
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: skyblue;
+}
